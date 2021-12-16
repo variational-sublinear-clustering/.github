@@ -1,8 +1,4 @@
-# Overview
-An overview of repositories and algorithms is provided.
-
 # Description
-The overview repository lists repositories and code of algorithms associated with research on efficient algorithms for clustering.
 The organization Variational Sublinear Clustering aims at bundling different projects on efficient clustering in order to (A) disseminate
 the algorithms for interested researchers and practitioners, and (B) to encourage further developments and to support future projects.
 
