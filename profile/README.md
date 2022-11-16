@@ -21,7 +21,7 @@ and documentation of the source code are ongoing.
 A detailed description and extensive benchmarking results of the algorithms can be found in this paper:
 
 "A Variational EM Acceleration for Efficient Clustering at Very Large Scales", Florian Hirschberger*, Dennis Forster*, Jörg Lücke.  
-<em>IEEE Transactions on Pattern Analysis and Machine Intelligence</em>, in press, 2022.  
+<em>IEEE Transactions on Pattern Analysis and Machine Intelligence</em>, 2022.  
 *joint first authors. DOI:10.1109/TPAMI.2021.3133763, https://ieeexplore.ieee.org/document/9645327
 
 For further descriptions of the source code itself, please see the README file of the vc-GMM repository.
