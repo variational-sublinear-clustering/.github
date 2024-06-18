@@ -11,9 +11,19 @@ The basic novelty the here developed algorithms is a sublinear scaling with the 
 
 https://uol.de/en/machine-learning/research/variational-em-for-big-fast-clustering
 
+## Announcement of Future Updates
 
+We are currently undertaking both technical and scientific improvements for the optimization of mixture models at very large scales. On the software side, the updates in development include the following:
 
-# Repository vc-GMM
+- **Performance:** Overall improvements, including enhanced shared memory parallelization.
+- **Simplified Installation Process:** To get up and running quickly with an easier installation procedure.
+- **User-Friendly Interface:** An intuitive and streamlined Python interface for easier applicability.
+- **Enhanced Documentation:** A more comprehensive documentation to further support the use of our algorithms.
+
+Future results will be communicated through scientific papers, and the associated algorithms will be released upon publication.
+If you are interested in large-scale mixture models and clustering and wish to try out our algorithms prior to their release, please contact us via E-Mail: [till.kahlke@uol.de](mailto:till.kahlke@uol.de).
+
+## Repository vc-GMM
 
 The repository contains efficient C++ source code for a combination of variational and coreset approaches to train
 Gaussian Mixture Models (GMMs). The algorithm scales sublinearly with the product NC and is suitable for data with
@@ -28,9 +38,7 @@ A detailed description and extensive benchmarking results of the algorithms can 
 
 For further descriptions of the source code itself, please see the README file of the vc-GMM repository.
 
-
-
-# Repository var-GMM
+## Repository var-GMM
 
 The repository contains the first versions of variationally accelerated clustering algorithms. It contains corresponding
 python code. The code is not optimized for execution speed. For optimized code we kindly refer to the repository vc-GMM.
